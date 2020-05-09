@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\костя\source\repos\parallel-distributed-calculations\pro_lab_6\pro_lab_6\source.cpp(46): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\костя\source\repos\parallel-distributed-calculations\pro_lab_6\pro_lab_6\source.cpp(61): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pro_lab_6.vcxproj -> C:\Users\Костя\source\repos\Parallel-Distributed-Calculations\pro_lab_6\x64\Debug\pro_lab_6.exe
